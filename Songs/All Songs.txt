@@ -3,6 +3,38 @@ Complete List of All Songs and Lyrics
 ======================================================
 ** All Song List (Originals)
 ======================================================
+160 Feet                          Added 
+All We Get                        Added 
+Beach Dreams                      Added
+Bird Jesus                        Added
+Campfire Ukes                     Added, Formatted
+Dance Tent                        Added
+Dawn Patrol                       Added
+Freddies Speakeasy
+Hair Band Ballad                  Added 
+Healthiest Man Indeed             Added
+Kook Off the Leash                Added
+Keep Me Cool                      Added
+Kyle Likes to Lie                 Added
+Mary on my Mind                   Added
+May Your Wetsuit Never Dry        Added
+Mister Wonderful                  Added
+Norris the Cat                    Added                
+No THC in the CBD                 Added
+Rain                              Added
+Piece of the whole                Added
+Professor Woland                  Added
+Renegade                          Added
+Simple Living
+Single Fin                        Added
+Shift (Lara)                
+Yo Puedo                          Added
+
+** NOTE: The pipeline for these songs is: Added, Rough Formatted, Chords Checked, Chords Placed Correctly, Final Formatted**
+
+======================================================
+** All Song List (Originals)
+======================================================
 160 Feet            *
 All We Get          *
 Beach Dreams            *
