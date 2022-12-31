@@ -25,9 +25,10 @@ Rain                              Added
 Piece of the whole                Added
 Professor Woland                  Added
 Renegade                          Added
+Sasquatchemo                      Added
 Simple Living
 Single Fin                        Added
-Shift (Lara)                
+Shift (Lara)                      Added
 Yo Puedo                          Added
 
 ** NOTE: The pipeline for these songs is: Added, Rough Formatted, Chords Checked, Chords Placed Correctly, Final Formatted**
@@ -65,7 +66,7 @@ Caress Me Down
 Bad Fish
 La Camissa Negra
 When Doves Cry
-purple Rain
+Purple Rain
 You Can't Always Get
 Land Down Under
 One Love
@@ -78,7 +79,6 @@ Can't you See
 Mustang Sally
 Nutbush City Limits (Ike & Tina Turner)
 Hard to Handle (The Black Crows)
-
 
 ======================================================
 ** Set List 1 (Originals and Covers)
