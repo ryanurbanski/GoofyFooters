@@ -8,12 +8,17 @@ Single gear cruising is the way for me
 G F F 
 Simple life’s best; That’s a guarantee 
 [Chorus] 
-F C Em F 
+F         C       Em                F 
 Slide and glide; come on enjoy the ride 
-C F 
+C         F G C
 Single Fin slipping down a glassy line 
-G C C 
+G C 
 Everyone’s feeling fine. 
+
+
+F C Em F C F G C
+
+
 [Verse 2] 
 C F 
 Living for the swell is the only way 

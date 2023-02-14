@@ -3,8 +3,8 @@ Complete List of All Songs and Lyrics
 ======================================================
 ** All Song List (Originals)
 ======================================================
-160 Feet                          Added 
-All We Get                        Added 
+160 Feet                          Added, Formatted, Checked, Placed, Final Formatted
+All We Get                        Added, Formatted, Checked, Placed 
 Beach Dreams                      Added
 Bird Jesus                        Added
 Campfire Ukes                     Added, Formatted
@@ -26,12 +26,44 @@ Piece of the whole                Added
 Professor Woland                  Added
 Renegade                          Added
 Sasquatchemo                      Added
-Simple Living
+Clean Living
 Single Fin                        Added
 Shift (Lara)                      Added
 Yo Puedo                          Added
 
 ** NOTE: The pipeline for these songs is: Added, Rough Formatted, Chords Checked, Chords Placed Correctly, Final Formatted**
+
+========================================================
+** Do I have good recordings to use to write solos over?
+========================================================
+160 Feet                         Y     Google
+All We Get                       
+Beach Dreams                     
+Bird Jesus                       Y     Can record myself
+Campfire Ukes                    Y     Google
+Dance Tent                       
+Dawn Patrol                      
+Freddies Speakeasy               Y     Phone - Dec 22, 2022
+Hair Band Ballad                 
+Healthiest Man Indeed            
+Kook Off the Leash               Y     Can record myself
+Keep Me Cool                     
+Kyle Likes to Lie                
+Mary on my Mind                  
+May Your Wetsuit Never Dry       Y     Google
+Mister Wonderful                 
+Norris the Cat                   
+No THC in the CBD                
+Rain                             
+Piece of the whole               
+Professor Woland                 
+Renegade                         
+Sasquatchemo                     
+Simple Living                    Y     Phone - Dec 22, 2022
+Single Fin                       Y     Google
+Shift (Lara)                     
+Yo Puedo                         
+
 
 ======================================================
 ** All Song List (Originals)
