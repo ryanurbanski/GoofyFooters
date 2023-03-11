@@ -3,33 +3,40 @@ Complete List of All Songs and Lyrics
 ======================================================
 ** All Song List (Originals)
 ======================================================
-160 Feet                          Added, Formatted, Checked, Placed, Final Formatted
-All We Get                        Added, Formatted, Checked, Placed 
-Beach Dreams                      Added
-Bird Jesus                        Added
-Campfire Ukes                     Added, Formatted
-Dance Tent                        Added
-Dawn Patrol                       Added
-Freddies Speakeasy
-Hair Band Ballad                  Added 
-Healthiest Man Indeed             Added
-Kook Off the Leash                Added
-Keep Me Cool                      Added
-Kyle Likes to Lie                 Added
-Mary on my Mind                   Added
-May Your Wetsuit Never Dry        Added
-Mister Wonderful                  Added
-Norris the Cat                    Added                
-No THC in the CBD                 Added
-Rain                              Added
-Piece of the whole                Added
-Professor Woland                  Added
-Renegade                          Added
-Sasquatchemo                      Added
-Clean Living
-Single Fin                        Added
-Shift (Lara)                      Added
-Yo Puedo                          Added
+160 Feet                         o, Added, Formatted, Checked, Placed, Final Formatted
+All We Get                       o, Added, Formatted, Checked, Placed 
+Beach Dreams                     o, Added
+Bird Jesus                       o, Added
+Campfire Ukes                    o, Added, Formatted
+Can't Surf Naked at CGP          o, Added 
+Clean Livin'                     o, Added,
+Dance Tent                       o, Added
+Dawn Patrol                      o, Added
+Freddies Speakeasy               o, Added
+Hair Band Ballad                 o, Added 
+Healthiest Man Indeed            o, Added
+Keep Me Cool                     o, Added
+Kook Off the Leash               o, Added
+Keep Me Cool                     o, Added
+Kyle Likes to Lie                o, Added
+Mary on my Mind                  o, Added
+May Your Wetsuit Never Dry       o, Added
+Mister Wonderful                 o, Added
+Norris the Cat                   o, Added                
+No THC in the CBD                o, Added
+Paradise in the sand             o, Added
+Pieces of the whole              o, Added
+Professor Woland                 o, Added
+Rain                             o, Added
+Renegade                         o, Added
+Shift                            o, Added
+Sasquatchemo                     o, Added
+Single Fin                       o, Added
+Yo Puedo                         o, Added
+
+
+
+
 
 ** NOTE: The pipeline for these songs is: Added, Rough Formatted, Chords Checked, Chords Placed Correctly, Final Formatted**
 
@@ -90,20 +97,25 @@ Shift (Lara)
 ======================================================
 ** Covers (Goofy Footers)
 ======================================================
+ACTIVE
 You Don't Know How it Feels
-People are Strange
 Every Rose has it's Thorns
-Heart of Gold
 Caress Me Down
-Bad Fish
 La Camissa Negra
-When Doves Cry
-Purple Rain
-You Can't Always Get
 Land Down Under
 One Love
 The Weight
+
+OCASIONALLY
 Can't you See
+
+RETIRED
+People are Strange
+Heart of Gold
+Bad Fish
+When Doves Cry
+Purple Rain
+You Can't Always Get
 
 ======================================================
 ** Songs I'd Love to Cover with Goofy Footers
