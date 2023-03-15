@@ -1,8 +1,4 @@
-
-Verse: A D A E (x4) / D
-Chorus: D E A
-
-Verse 1: Morning
+Verse 1:
 A         D          A         E   
 Seven cards dealt, 500 within reach
 A         D          A         E          
@@ -10,7 +6,7 @@ Grab my stick and I’m heading to the beach
 A         D         A          E  
 Don’t need to walk down the street
  A         D         A          E      D 
-‘cause I got wheels under my feet      
+‘cause I got wheels under my feet        
 
 Chorus:
 D   E   A            
@@ -22,15 +18,15 @@ Hey, let’s run out and play
 D   E   A                        
 Hey, hey, hey, it’s a perfect day
 
-Verse 2: Afternoon
-
+Verse 2:
+A         D          A         E       
 Three beers in and sitting on the beach
-
+A         D          A         E        
 All my worries are slightly out of reach
-
+A         D          A         E      
 Feet on the ground and head in the sky
-
-Holding my breath as I begin to slide
+A         D         A          E      D 
+Holding my breath as I begin to slide   
 
 Chorus:
 D   E   A            
@@ -42,15 +38,14 @@ Hey, let’s run out and play
 D   E   A                        
 Hey, hey, hey, it’s a perfect day
 
-
-Verse 3: Evening
-A                    D                 A            E 
+Verse 3:
+A          D           A            E               
 One bottle on board and a bunch of friends          
-A               D       A          E 
-Searching for an original sin      
-A                D           A         E 
+A          D           A            E 
+Searching for an original sin         
+A          D           A            E  
 Build a fire smoke a joint or two      
-A                  D         A             E 
+A         D         A          E      D    
 Sing a song create something new           
 
 Chorus:
@@ -63,15 +58,15 @@ Hey, let’s run out and play
 D   E   A                        
 Hey, hey, hey, it’s a perfect day
 
-Verse 4: “Night” 
-A            D         A                E 
+Verse 4:
+A          D           A            E   
 Sleeping on the hood of my car          
-A                  D         A             E 
+A          D           A            E      
 Ground up above below me stars             
-A        D         A             E 
-Lucid dreams filling my brain    
-A                    D         A      E 
-Wake up and do it all over again!     
+A          D           A            E 
+Lucid dreams filling my brain         
+A         D         A          E      D 
+Wake up and do it all over again!       
 
 Chorus:
 D   E   A            
@@ -84,9 +79,9 @@ D   E   A
 Hey, hey, hey, it’s a perfect day
 
 Outro:
-A              D         A           E 
+A       D       A          E         
 When it's raining you will see       
-A                 D                             E 
+A       D       A          E                    
 Outside of Beach Dreams with coffee             
-            D              A 
+D    A                     
 And CBD                    

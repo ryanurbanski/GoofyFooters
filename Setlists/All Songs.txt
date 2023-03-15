@@ -12,6 +12,7 @@ Can't Surf Naked at CGP          o, Added
 Clean Livin'                     o, Added,
 Dance Tent                       o, Added
 Dawn Patrol                      o, Added
+Entre Nosotros
 Freddies Speakeasy               o, Added
 Hair Band Ballad                 o, Added 
 Healthiest Man Indeed            o, Added
@@ -98,15 +99,16 @@ Shift (Lara)
 ** Covers (Goofy Footers)
 ======================================================
 ACTIVE
-You Don't Know How it Feels
-Every Rose has it's Thorns
 Caress Me Down
 La Camissa Negra
+La Bamba
 Land Down Under
 One Love
 The Weight
+Every Rose has it's Thorns
 
 OCASIONALLY
+You Don't Know How it Feels
 Can't you See
 
 RETIRED
