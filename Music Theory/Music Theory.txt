@@ -1,0 +1,49 @@
+
+Place to Organize Keys and all things Theory for Practice
+
+
+All Notes
+C C# D D# E F F# G G# A A# B C C# D D# E F F# G G# A A# B 
+
+
+Diatonic Scales (Sharps)
+
+Key     1  2  3  4  5  6  7         Triad           Usable
+------------------------------------------------------------------
+C       C  D  E  F  G  A  B         C  E  G         C  E  G
+C#      C# D# E# F# G# A# B#        C# E# G#
+Db      Db Eb F  Gb Ab Bb C         Db F  Ab        Db F  Ab
+D       D  E  F# G  A  B  C#        D  F# A         D  F# A
+D#      D# E# F  G# A# B# C         D# F  A#        
+Eb      Eb F  G  Ab Bb C  D         Eb G  Bb        Eb G  Bb
+E       E  F# G# A  B  C# D#        E  G# B         E  G# B
+F       F  G  A  Bb C  D  E         F  A  C         F  A  C
+F#      F# G# A# B  C# D# E#        F# A# C#        F# A# C#
+Gb      Gb Ab Bb Cb Db Eb F         Gb Bb Db        Gb Bb Db
+G       G  A  B  C  D  E  F#        G  B  D         G  B  D
+G#      G# A# B# C# D# E# F         G# B# D#
+Ab      Ab Bb C  Db Eb F  G         Ab C  Eb        Ab C  Eb
+A       A  B  C# D  E  F# G#        A  C# E         A  C# E
+Bb      Bb C  D  Eb F  G  A         Bb D  F         Bb D  F
+B       B  C# D# E  F# G# A#        B  D# F#        B  D# F#
+
+
+La Casa de Papel
+
+
+Triad Groups      Dom 7th
+C   E   G           Bb
+F   A   C           Eb
+G   B   D           F
+
+A   C#  E           G
+D   F#  A           C
+E   G#  B           D
+
+Ab  C   Eb          Gb
+Db  F   Ab          B
+Eb  G   Bb          Db
+
+Bb  D   F           Ab
+B   D#  F#          A
+F#  A#  C#          E

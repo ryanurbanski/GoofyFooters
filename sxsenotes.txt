@@ -1,0 +1,9 @@
+
+drums - green
+bass - purple
+guitars - red (ac and elec)
+horns - yellow (w pianos as well)
+vocals - light blue
+
+
+
